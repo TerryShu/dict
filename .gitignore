@@ -2,3 +2,5 @@
 *.o.d
 test_cpy
 test_ref
+*.png
+*.txt
